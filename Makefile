@@ -1,3 +1,5 @@
+# Copyright (C) 2022, Maël Coulmance
+
 CC = gcc
 CCFLAGS = -Wall -Wextra -DUNICODE
 CCWARNINGS = -Wno-unused-parameter -Wno-parentheses

@@ -1,3 +1,5 @@
+// Copyright (C) 2022, Maël Coulmance
+
 #ifndef PUISSANCE4_GAME_H
 #define PUISSANCE4_GAME_H
 

@@ -1,3 +1,5 @@
+// Copyright (C) 2022, Maël Coulmance
+
 #include <stddef.h>
 #include <stdio.h>
 

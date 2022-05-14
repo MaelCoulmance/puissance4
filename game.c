@@ -1,3 +1,5 @@
+// Copyright (C) 2022, Maël Coulmance
+
 #include <stdio.h>
 #include <assert.h>
 

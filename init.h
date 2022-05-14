@@ -1,3 +1,5 @@
+// Copyright (C) 2022, Maël Coulmance
+
 #ifndef PUISSANCE4_INIT_H
 #define PUISSANCE4_INIT_H
 
